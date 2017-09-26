@@ -1,0 +1,23 @@
+Option Compare Database
+
+
+' Export as XML
+
+
+'''EXAMPLE
+' ExportForTimeline("D:\SANDS\fcsfiles\asp\Master ASP List.xml")
+' ExportForTimeline("D:\SANDS\timeline\test.xml")
+'''''''''''''''''''''''
+Function ExportForTimeline(pathwithfilename) As Boolean
+
+Application.ExportXML _
+    ObjectType:=acExportQuery, _
+    DataSource:="Products_Basic", _
+    DataTarget:=pathwithfilename
+    
+ Application.TransformXML pathwithfilename, _
+                "D:\SANDS\timeline\ToTimelineFromAccess.xsl", _
+                "D:\SANDS\timeline\testResult.xml"
+    
+End Function
+

@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-03-19 01:10:56
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+01:10:56 172.16.146.102 GET /fpcProducts/CTO/CTO_Parser.asp 200
+01:10:56 172.16.146.102 GET /SANDS-CSS/style.css 304
+01:10:56 172.16.146.102 GET /SANDS.css 304
+01:10:56 172.16.146.102 GET /images/415x64l.gif 304
+01:10:56 172.16.146.102 GET /images/img_siteinfo.jpg 304
+01:10:56 172.16.146.102 GET /statmentornet/statmentorhit.aspx 500
+01:10:56 172.16.146.102 GET /images/bg-leftcol.gif 304
+01:10:56 172.16.146.102 GET /images/bg-centercol.jpg 304
+01:10:56 172.16.146.102 GET /images/img_dot.gif 304
+01:10:56 172.16.146.102 GET /images/Search_small.gif 304
+01:10:56 172.16.146.102 GET /images/13x14_Arrow_grey.gif 304
+01:10:56 172.16.146.102 GET /images/space.gif 304
+01:10:56 172.16.146.102 GET /images/delta_b.gif 304
+01:10:56 172.16.146.102 GET /images/bg-rightcol2.jpg 304
+01:11:02 172.16.146.102 GET /Search/PartsByConfig.aspx 200
+01:11:02 172.16.146.102 GET /images/navArrow.gif 304
+01:11:02 172.16.146.102 GET /images/blankdoc.gif 304
+01:11:02 172.16.146.102 GET /statmentornet/statmentorhit.aspx 500
+01:11:02 172.16.146.102 GET /images/yes_check.gif 304
+01:11:02 172.16.146.102 GET /images/no_check.gif 304

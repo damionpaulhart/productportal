@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-05-14 09:15:27
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+09:15:27 172.16.144.40 GET / 401
+09:15:27 172.16.144.40 GET /Main.html 304
+09:15:27 172.16.144.40 GET /SANDS-CSS/style.css 304
+09:15:27 172.16.144.40 GET /SANDS.css 304
+09:15:27 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+09:15:27 172.16.144.40 GET /images/HomePage/images/Products_r1_c1.jpg 304
+09:15:27 172.16.144.40 GET /images/HomePage/images/Products_r1_c3.jpg 304
+09:15:27 172.16.144.40 GET /images/415x64l.gif 401
+09:15:27 172.16.144.40 GET /images/HomePage/images/Products_r1_c4.jpg 304
+09:15:27 172.16.144.40 GET /images/HomePage/images/spacer.gif 304
+09:15:27 172.16.144.40 GET /images/space.gif 304
+09:15:27 172.16.144.40 GET /images/13x14_Arrow.gif 304
+09:15:27 172.16.144.40 GET /images/13x14_Arrow_grey.gif 304
+09:15:27 172.16.144.40 GET /images/blankdoc.gif 304
+09:15:27 172.16.144.40 GET /PartsIllustrated/PartsIllustrated.gif 304
+09:15:27 172.16.144.40 GET /images/Primus.gif 304
+09:15:27 172.16.144.40 GET /ZION/html/images/excel.gif 304
+09:15:27 172.16.144.40 GET /ZION/html/images/folder.gif 304
+09:15:27 172.16.144.40 GET /images/PDF.gif 304
+09:15:27 172.16.144.40 GET /images/printkey.gif 304
+09:15:27 172.16.144.40 GET /images/Search_small.gif 304
+09:15:27 172.16.144.40 GET /images/bg-rightcol2.jpg 304
+09:15:27 172.16.144.40 GET /images/415x64l.gif 304
+09:15:29 172.16.144.40 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+09:15:29 172.16.144.40 GET /images/HomePage/images/Products_r1_c3_f2.jpg 304
+09:15:29 172.16.144.40 GET /images/HomePage/images/Products_r1_c4_f2.jpg 304
+09:15:41 172.16.144.40 GET /fpcServicePartners/ASP+Active++Refferal_Oct_23_03.xls 200

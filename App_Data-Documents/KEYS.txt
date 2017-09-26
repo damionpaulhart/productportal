@@ -1,0 +1,7 @@
+DLRMSTR = MASTERID (note has some zreo keys -- remove after import)
+
+OrdPart == INVENTORY_ITEM_ID
+
+MDLMSTR == MDLCONFIG
+
+FOREBOM == uniquefields

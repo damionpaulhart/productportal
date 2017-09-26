@@ -1,0 +1,55 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2008-03-30 22:47:33
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+22:47:33 172.16.144.41 GET /StyleSheetForMaster.css 304
+22:47:33 172.16.144.41 GET /App_Controls/WhatsUpdatedPopUpStyleSheet.css 304
+22:47:33 172.16.144.41 GET /Default.aspx 200
+03:25:19 172.16.144.40 GET /StyleSheetForMaster.css 200
+03:25:19 172.16.144.40 GET /App_Controls/WhatsUpdatedPopUpStyleSheet.css 200
+03:25:19 172.16.144.40 GET /WebResource.axd 200
+03:25:19 172.16.144.40 GET /WebResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /ScriptResource.axd 200
+03:25:19 172.16.144.40 GET /images/415x64l.gif 200
+03:25:19 172.16.144.40 GET /images/headermaroon2.jpg 200
+03:25:19 172.16.144.40 GET /images/doc_excel_grey.gif 200
+03:25:19 172.16.144.40 GET /images/headermaroon2.png 200
+03:25:19 172.16.144.40 GET /images/doc_word_grey.gif 200
+03:25:19 172.16.144.40 GET /images/doc_html_grey.gif 200
+03:25:19 172.16.144.40 GET /images/doc_pdf_grey.gif 200
+03:25:19 172.16.144.40 GET /images/13x14_Arrow_grey.gif 200
+03:25:19 172.16.144.40 GET /images/blankdoc.gif 200
+03:25:20 172.16.144.40 GET /images/printkey.gif 200
+03:25:20 172.16.144.40 GET /images/sort_none.gif 200
+03:25:20 172.16.144.40 GET /Default.aspx 200
+03:25:20 172.16.144.40 GET /images/PrimusRM.gif 200
+03:25:20 172.16.144.40 GET /images/bg-rightcol.jpg 200
+03:25:20 172.16.144.40 GET /images/GlasGrey.jpg 200
+03:25:20 172.16.144.40 GET /images/Expander.gif 200
+03:25:20 172.16.144.40 GET /WebResource.axd 200
+03:25:20 172.16.144.40 GET /WebResource.axd 200
+03:25:20 172.16.144.40 GET /WebResource.axd 200
+03:25:20 172.16.144.40 GET /WebResource.axd 200
+03:25:20 172.16.144.40 GET /WebResource.axd 200
+03:25:21 172.16.144.40 GET /WebResource.axd 200
+03:25:21 172.16.144.40 GET /WebResource.axd 200
+03:25:28 172.16.144.40 GET /series.aspx 200
+03:25:28 172.16.144.40 GET /images/GlasGreyLight.jpg 200
+03:25:28 172.16.144.40 GET /images/img_dot.gif 200
+03:25:40 172.16.144.40 POST /series.aspx 200
+03:25:43 172.16.144.40 GET /StyleSheetForTabs.css 200
+03:25:43 172.16.144.40 GET /images/25-1.gif 200
+03:25:43 172.16.144.40 GET /documentation.aspx 200
+03:25:43 172.16.144.40 GET /configuration.aspx 200
+03:25:43 172.16.144.40 GET /techspec.aspx 302
+03:25:51 172.16.144.40 GET /partsforconfigwithspares.aspx 200
+03:25:51 172.16.144.40 GET /software.aspx 200

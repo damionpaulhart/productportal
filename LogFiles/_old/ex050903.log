@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-09-03 17:12:43
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+17:12:43 172.16.144.40 GET /Main.html 304
+17:12:43 172.16.144.40 GET /SANDS-CSS/style.css 304
+17:12:43 172.16.144.40 GET /SANDS.css 304
+17:12:43 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+17:12:43 172.16.144.40 GET /images/415x64l.gif 304
+17:12:43 172.16.144.40 GET /images/HomePage/images/Products_r1_c1.jpg 304
+17:12:43 172.16.144.40 GET /images/HomePage/images/Products_r1_c3.jpg 304
+17:12:43 172.16.144.40 GET /images/HomePage/images/Products_r1_c4.jpg 304
+17:12:43 172.16.144.40 GET /images/HomePage/images/spacer.gif 304
+17:12:43 172.16.144.40 GET /images/space.gif 304
+17:12:43 172.16.144.40 GET /images/13x14_Arrow.gif 304
+17:12:43 172.16.144.40 GET /images/blankdoc.gif 304
+17:12:43 172.16.144.40 GET /images/13x14_Arrow_grey.gif 304
+17:12:43 172.16.144.40 GET /PartsIllustrated/PartsIllustrated.gif 304
+17:12:43 172.16.144.40 GET /images/Primus.gif 304
+17:12:43 172.16.144.40 GET /ZION/html/images/folder.gif 304
+17:12:43 172.16.144.40 GET /images/PDF.gif 304
+17:12:43 172.16.144.40 GET /images/printkey.gif 304
+17:12:43 172.16.144.40 GET /images/Search_small.gif 304
+17:12:43 172.16.144.40 GET /ZION/html/images/excel.gif 304
+17:12:43 172.16.144.40 GET /images/bg-rightcol2.jpg 304
+17:12:43 172.16.144.40 GET /images/5x20_bg_lightGreyWhite.gif 304
+17:12:44 172.16.144.40 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+17:12:44 172.16.144.40 GET /images/HomePage/images/Products_r1_c3_f2.jpg 304
+17:12:44 172.16.144.40 GET /images/HomePage/images/Products_r1_c4_f2.jpg 304
+17:12:47 172.16.144.40 GET /fpcProducts/CTO/CTO_Parser.asp 200
+17:12:47 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+17:12:47 172.16.144.40 GET /images/img_siteinfo.jpg 304
+17:12:47 172.16.144.40 GET /images/bg-leftcol.gif 304
+17:12:47 172.16.144.40 GET /images/bg-centercol.jpg 304
+17:12:47 172.16.144.40 GET /images/img_dot.gif 304
+17:12:47 172.16.144.40 GET /images/delta_b.gif 304
+17:13:04 172.16.144.40 GET /fpcProducts/CTO/CTO_Parser.asp 200
+17:13:04 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+17:13:25 172.16.144.40 GET /fpcProducts/CTO/CTO_Parser.asp 200
+17:13:25 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+17:13:46 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+17:13:46 172.16.144.40 GET /images/navArrow.gif 304
+17:13:46 172.16.144.40 GET /images/smallfile.gif 304
+17:13:46 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+17:13:46 172.16.144.40 GET /images/no_check.gif 200
+17:13:46 172.16.144.40 GET /images/yes_check.gif 200
+17:15:04 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+17:15:04 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500

@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-12-23 14:09:16
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+14:09:16 172.30.33.87 GET /Main.html 304
+14:09:16 172.30.33.87 GET /SANDS-CSS/style.css 304
+14:09:16 172.30.33.87 GET /SANDS.css 304
+14:09:16 172.30.33.87 GET /images/HomePage/mm_menu.js 304
+14:09:16 172.30.33.87 GET /SANDS-CSS/list.css 304
+14:09:17 172.30.33.87 GET /SANDS-CSS/menu-right.css 304
+14:09:17 172.30.33.87 GET /images/5x20_bg_lightGreyWhite.jpg 304
+14:09:18 172.30.33.87 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+14:09:18 172.30.33.87 GET /favicon.ico 404
+14:09:22 172.30.33.87 GET /fpcTroubleshooting/Beep+Codes/beepcodes.htm 200
+18:50:43 172.16.144.40 GET /Main.html 304
+18:50:43 172.16.144.40 GET /SANDS-CSS/style.css 304
+18:50:43 172.16.144.40 GET /SANDS.css 304
+18:50:43 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+18:50:43 172.16.144.40 GET /SANDS-CSS/list.css 304
+18:50:43 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+18:50:43 172.16.144.40 GET /images/5x20_bg_lightGreyWhite.jpg 304
+18:50:43 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+19:39:43 172.16.144.40 GET /Main.html 304
+19:39:43 172.16.144.40 GET /SANDS-CSS/style.css 304
+19:39:43 172.16.144.40 GET /SANDS.css 304
+19:39:43 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+19:39:43 172.16.144.40 GET /SANDS-CSS/list.css 304
+19:39:43 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+19:39:43 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:43:13 172.16.144.40 GET /Search/OverviewLifebook.aspx 200
+22:43:13 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:43:19 172.16.144.40 GET /Search/ConfigBySeries.aspx 200
+22:43:19 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:43:28 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+22:43:28 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:43:31 172.16.144.40 GET /Search/parts.aspx 200

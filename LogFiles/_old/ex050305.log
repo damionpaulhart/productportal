@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-03-05 00:07:16
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+00:07:16 172.16.149.148 GET /Main.html 304
+00:07:16 172.16.149.148 GET /SANDS-CSS/style.css 304
+00:07:16 172.16.149.148 GET /SANDS.css 304
+00:07:16 172.16.149.148 GET /images/HomePage/mm_menu.js 304
+00:09:17 172.16.149.148 GET /Main.html 304
+00:09:17 172.16.149.148 GET /SANDS-CSS/style.css 304
+00:09:17 172.16.149.148 GET /SANDS.css 304
+00:09:17 172.16.149.148 GET /images/HomePage/mm_menu.js 304

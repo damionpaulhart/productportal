@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-07-24 15:14:34
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+15:14:34 172.16.144.41 GET /Main.html 304
+15:14:34 172.16.144.41 GET /SANDS-CSS/style.css 304
+15:14:34 172.16.144.41 GET /SANDS.css 304
+15:14:34 172.16.144.41 GET /images/HomePage/mm_menu.js 304
+15:14:34 172.16.144.41 GET /images/415x64l.gif 304
+15:14:34 172.16.144.41 GET /images/space.gif 304
+15:14:34 172.16.144.41 GET /images/blankdoc.gif 304
+15:14:34 172.16.144.41 GET /images/13x14_Arrow_grey.gif 304
+15:14:34 172.16.144.41 GET /images/Search_small.gif 304
+15:14:34 172.16.144.41 GET /images/bg-rightcol2.jpg 304
+15:14:34 172.16.144.41 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+15:40:06 172.16.144.41 GET /Main.html 304
+15:40:06 172.16.144.41 GET /SANDS-CSS/style.css 304
+15:40:06 172.16.144.41 GET /SANDS.css 304
+15:40:06 172.16.144.41 GET /images/HomePage/mm_menu.js 304
+15:40:06 172.16.144.41 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+18:38:26 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+18:38:26 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+21:12:16 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+21:12:16 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+22:14:03 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+22:14:03 172.16.144.41 GET /images/navArrow.gif 304
+22:14:30 172.16.144.41 GET /site_search.asp 200
+22:14:50 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+22:14:50 172.16.144.41 GET /Search/GetPartsByDescForModel.aspx 200
+22:15:22 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+22:15:22 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+22:15:28 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+22:15:28 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+23:04:00 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+23:04:00 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+23:04:06 172.16.144.41 GET /Search/PartsByConfig.aspx 200
+23:04:06 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500

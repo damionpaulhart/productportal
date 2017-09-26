@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"  description="">
+    <siteMapNode url="products.aspx" title="Products"  description="">
+      <siteMapNode url="series.aspx" title="Series"  description="">
+        <siteMapNode url="configuration.aspx" title="Detail" description=""/>
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="ConfigReader.aspx" title="Configuration Reader"  description="" />
+    <siteMapNode url="search.aspx" title="Search"  description="">
+      <siteMapNode url="partsbynumber.aspx" title="Parts By Number"  description=""/>
+      <siteMapNode url="partsbyname.aspx" title="Parts By Name"  description=""/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

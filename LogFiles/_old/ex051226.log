@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-12-26 13:03:16
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+13:03:16 172.16.144.40 GET /Main.html 304
+13:03:16 172.16.144.40 GET /SANDS-CSS/style.css 304
+13:03:16 172.16.144.40 GET /SANDS.css 304
+13:03:16 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+13:03:16 172.16.144.40 GET /SANDS-CSS/list.css 304
+13:03:16 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+13:03:16 172.16.144.40 GET /images/logo-fpc-415x641.gif 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c1.jpg 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c3.jpg 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c4.jpg 304
+13:03:16 172.16.144.40 GET /images/doc_excel_grey.gif 304
+13:03:16 172.16.144.40 GET /images/folder.gif 304
+13:03:16 172.16.144.40 GET /images/doc_word_grey.gif 304
+13:03:16 172.16.144.40 GET /images/doc_html_grey.gif 304
+13:03:16 172.16.144.40 GET /images/doc_pdf_grey.gif 304
+13:03:16 172.16.144.40 GET /images/blankdoc.gif 304
+13:03:16 172.16.144.40 GET /images/printkey.gif 304
+13:03:16 172.16.144.40 GET /images/13x14_Arrow_grey.gif 304
+13:03:16 172.16.144.40 GET /images/PrimusRM.gif 304
+13:03:16 172.16.144.40 GET /images/space.gif 304
+13:03:16 172.16.144.40 GET /images/InfinityGreyTransparent.gif 304
+13:03:16 172.16.144.40 GET /images/bg-centercol.jpg 304
+13:03:16 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+13:03:16 172.16.144.40 GET /images/5x20_bg_lightGreyWhite.jpg 304
+13:03:16 172.16.144.40 GET /images/bg-rightcol2.jpg 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c3_f2.jpg 304
+13:03:16 172.16.144.40 GET /images/HomePage/images/Products_r1_c4_f2.jpg 304
+13:03:19 172.16.144.40 GET /Main.html 304
+16:33:12 172.16.144.40 GET /Main.html 304
+16:33:12 172.16.144.40 GET /Main.html 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/style.css 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/style.css 304
+16:33:12 172.16.144.40 GET /SANDS.css 304
+16:33:12 172.16.144.40 GET /SANDS.css 304
+16:33:12 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+16:33:12 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/list.css 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/list.css 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+16:33:12 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+16:33:12 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+16:33:12 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200

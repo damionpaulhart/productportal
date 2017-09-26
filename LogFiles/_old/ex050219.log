@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-02-19 00:15:43
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+00:15:43 172.16.149.148 GET /Main.html 304
+00:15:43 172.16.149.148 GET /SANDS-CSS/style.css 304
+00:15:43 172.16.149.148 GET /SANDS.css 304
+00:15:43 172.16.149.148 GET /images/HomePage/mm_menu.js 304
+00:42:09 129.212.139.23 OPTIONS / 200
+00:42:09 129.212.139.23 PROPFIND /primus 207
+00:42:09 129.212.139.23 PROPFIND /primus 207
+00:42:10 129.212.139.23 PROPFIND /primus/SCS9279_SystemShutdown.gif 207
+00:42:10 129.212.139.23 PROPFIND /primus/SCS9279_LSAerror.gif 207
+00:42:10 129.212.139.23 GET /primus/SCS9279_SystemShutdown.gif 304
+00:42:10 129.212.139.23 GET /primus/SCS9279_LSAerror.gif 304
+01:07:30 172.16.149.148 GET /Main.html 304
+01:07:30 172.16.149.148 GET /SANDS-CSS/style.css 304
+01:07:30 172.16.149.148 GET /SANDS.css 304
+01:07:30 172.16.149.148 GET /images/HomePage/mm_menu.js 304

@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-04-02 03:36:00
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+03:36:00 172.16.144.40 GET /Main.html 304
+03:36:00 172.16.144.40 GET /SANDS-CSS/style.css 304
+03:36:00 172.16.144.40 GET /SANDS.css 304
+03:36:00 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+03:36:01 172.16.144.40 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+03:36:08 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+03:36:33 172.16.144.40 GET /site_search.asp 200

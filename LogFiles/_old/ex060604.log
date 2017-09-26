@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2006-06-04 12:30:27
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+12:30:27 172.16.144.42 GET /Main.aspx 200
+12:30:27 172.16.144.42 GET /SANDS-CSS/style.css 304
+12:30:27 172.16.144.42 GET /SANDS.css 304
+12:30:27 172.16.144.42 GET /images/HomePage/mm_menu.js 304
+12:30:27 172.16.144.42 GET /SANDS-CSS/list.css 304
+12:30:27 172.16.144.42 GET /SANDS-CSS/menu-right.css 304
+12:30:27 172.16.144.42 GET /images/logo-fpc-415x641.gif 304
+12:30:27 172.16.144.42 GET /images/doc_excel_grey.gif 304
+12:30:27 172.16.144.42 GET /images/doc_word_grey.gif 304
+12:30:27 172.16.144.42 GET /images/folder.gif 304
+12:30:27 172.16.144.42 GET /images/doc_html_grey.gif 304
+12:30:27 172.16.144.42 GET /images/doc_pdf_grey.gif 304
+12:30:27 172.16.144.42 GET /images/blankdoc.gif 304
+12:30:27 172.16.144.42 GET /images/printkey.gif 304
+12:30:27 172.16.144.42 GET /images/13x14_Arrow_grey.gif 304
+12:30:27 172.16.144.42 GET /images/5x20_bg_lightGreyWhite.png 304
+12:30:27 172.16.144.42 GET /images/PrimusRM.gif 304
+12:30:27 172.16.144.42 GET /images/space.gif 304
+12:30:27 172.16.144.42 GET /images/InfinityEEEEEETransparent.gif 304
+12:30:27 172.16.144.42 GET /images/bg-centercol.jpg 304
+12:30:27 172.16.144.42 GET /images/bg-rightcol2.jpg 304

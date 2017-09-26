@@ -1,0 +1,59 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageSANDS2.master.cs" Inherits="MasterPageSANDS2" %>
+<%@ Register TagPrefix="fcs" TagName="searchright" Src="~/App_Controls/SearchRight.ascx" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <link media="screen" href="StyleSheetForMaster.css" type="text/css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <div id="outer">
+            <table>
+                <tr>
+                    <td id="master_header" colspan="2"><img alt="Fujitsu America Logo" src="images/logo.gif"/></td>
+                </tr>
+                <tr>
+                    <td id="master_nav" colspan="2">
+                        <a href="default.aspx">Home</a>
+                        <a href="http:\\sv-corpfsapps01.fjcs.net\SANDS\fcsfiles\lut">Look Up Tables</a> 
+                    <a href="http:\\sv-corpfsapps01.fjcs.net\SANDS\fcsfiles\drawings" target="_blank">Exploded Diagrams</a> 
+                    <a href="http://sv-corpfsapps01.fjcs.net/SANDS/LatestDrivers.aspx">
+                        Driver Search</a>
+                    </td>
+                </tr>
+                <%--<tr>
+                    <td id="master_sitemap" colspan="2">
+                        <asp:SiteMapPath ID="SiteMapPath1" runat="server" CssClass="sitemap" />
+                    </td>
+                </tr>--%>
+                <tr>
+                    <td id="master_pageheader" colspan="2">
+                        <asp:ContentPlaceHolder ID="PageHeader" runat="server" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="master_content">
+                        <asp:ContentPlaceHolder ID="Content" runat="server" />
+                    </td>
+                    <td id="master_searchright">
+                        <a href="http://diamond.ftsi.fujitsu.com/eservice/iview/ui/eserver.asp" target="_blank">
+                        <img src="images/PrimusRM.gif" width="155" height="38" vspace="0" 
+                            border="0" alt="Primus" /></a>
+                        <a href="http://fcsapps.fjcs.net:8001/oa_servlets/AppsLogin" target="_blank">
+                        <img src="images/ORACLE.gif" width="145" height="28" vspace="5"  
+                            border="0" alt="Oracle" style="margin-left:10px" /></a>
+                        <fcs:searchright ID="SearchRight1" runat="server" />
+                    </td>
+                </tr>
+                <tr><td id="master_footer" colspan="2">                <span>All Rights Reserved, Copyright &#169; Fujitsu America Incorporated 2001-2010</span>
+</td></tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

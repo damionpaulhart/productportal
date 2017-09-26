@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Frost's Finder</title>
+		<style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+    </style>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAANQeAue-YWSmKjaPii7wgSRTgtLbXbuWW2GdIWd3pIxzaKyth4BRgE42xhny6DcGehaaL6HCobpMNyA"
+            type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+		alert(window.location.host)
+		var map = null;
+    var geocoder = null;
+
+    function load() 
+		 {
+      if (GBrowserIsCompatible())
+			 {
+        map = new GMap2(document.getElementById("map"));
+        map.addControl(new GLargeMapControl());
+				geocoder = new GClientGeocoder();
+				showAddress("Ryzex Repair","800-264-7014", "3758 E. Grove St	Phoenix	AZ	85040");
+				showAddress("Leading Edge Technology Solutions", "818-569-7028", "2913 N. Ontario St.	Burbank	CA	91504");
+				showAddress("Wesco (Notebookshop.com)", "877-640-7707", "16727 S. Parkside Ave	Cerritos	CA	90703");
+				showAddress("Premio Computer", "626-839-3100", "918 Radecki Ct	City of Industry	CA	91745");
+				showAddress("Adam's Electronics", "714-848-0110", "7128 Edinger Ave	Huntington Beach	CA	92647");
+				showAddress("CPU Computer Repair", "949-250-0744", "18023 Skypark Cir, Ste H	Irvine	CA	92614");
+				showAddress("Galaxy Computer Corp", "310-398-7388", "11314 Venice Blvd	Los Angeles	CA	90066");
+				showAddress("Wesco (Notebookshop.com)", "213-427-3040", "3680 Wilshire Blvd, Ste 204	Los Angeles	CA	90010");
+				showAddress("Enpointe Technologies", "310-725-5200", "1040A S. Vintage Ave	Ontario 	CA	91761");
+				showAddress("Computer Care (4Ritz)", "650-475-5500 ", "9600 San Antonio Rd.	Palo Alto	CA	94303");
+				showAddress("Smart Digital", "714-528-5533", "187  W. Orange Thorpe Ave, Ste 101	Placentia	CA	92870");
+				showAddress("BCP Trilogy", "530-283-3736", "424 N. Mill Creek Rd	Quincy	CA	95971");
+				showAddress("T3 Computer Services", "916-925-8300", "1804 Tribute Rd, Ste A	Sacramento 	CA	95815");
+				showAddress("CPU Computer Repair", "858-362-3163", "10225 Barnes Canyon Rd, Ste A107	San Diego	CA	92121");
+				showAddress("Ameritech Computer Services, Inc.", "415-282-6500", "2688 3rd St	San Francisco	CA	94107");
+				showAddress("CPU Computer Repair", "408-894-9924", "2375 Zanker Rd, Ste 200	San Jose	CA	95131");
+				showAddress("ECOMTEK", "408-943-1500 ", "1530 Montague Expressway	San Jose 	CA	95131");
+				showAddress("Future Computing Solutions, Inc.", "714-692-9120", "23800 Via Del Rio	Yorba Linda	CA	92887");
+				showAddress("Colorado Corporate Tech","720-344-4955","1745 Shea Center Dr	Highlands Ranch 	CO	80129");
+				showAddress("Premio Computer","303-858-0888","7012 S. Revere Pkwy, Ste 180	Centennial	CO	80112");
+				showAddress("Computer Supercenter","203-661-1700","103 Mason St	Greenwich	CT	06830");
+				showAddress("DBK Concepts","800-725-7226","12905 SW 129th Ave	Miami	FL	33186");
+				showAddress("Richards Computers","800-880-7795","1881 NW 87th Ave	Miami	FL	33172");
+				showAddress("Business Technology Partners, Inc","407-649-6490","4071 L.B. McLeod Rd, Ste C	Orlando	FL	32811");
+				showAddress("Currie, Peak & Frazier, Inc.","800-225-6893","7543 Commerce Center Dr	Orlando	FL	32819");
+				showAddress("ESQ","888-645-4449","1013 Montana St	Orlando	FL	32803");
+				showAddress("ACS","770-751-1177","1925 Grassland Pkwy	Alpharetta	GA	30004");
+				showAddress("Enpointe Technologies","770-454-3178","2970 Brandywine Rd. Ste 110	Atlanta	GA	30341");
+				showAddress("Richards Computers","800-520-7455","7878-K Roswell Rd	Atlanta	GA	30350");
+				showAddress("Pomeroy IT Solutions","800-846-8727 x3399","2161 New Market Pkwy, Ste 218	Marietta	GA	30067");
+				showAddress("ICM Corporation","800-654-8013","4025 Steve Reynolds Blvd, Ste 200	Norcross	GA	30093");
+				showAddress("VirtuCom","770-908-8100","2060 E. Exchange Pl Ste 228	Tucker	GA	30084");
+				showAddress("WAV","630-818-1000","2380 A Prospect Dr	Aurora	IL	60504");
+				showAddress("Enpointe Technologies","312-880-6344","181 West Madison St, Ste 2202	Chicago	IL	60602");
+				showAddress("Boise Office Solutions","800-264-7317","800 W. Bryn Mawr Ave	Itasca	IL	60143");
+				showAddress("PCC Valcom","630-285-0500","1433 Hamilton Pkwy	Itasca	IL	60143");
+				showAddress("Premio Computer -  IL","630-620-8989","880 Oak Creek Dr	Lombard	IL	60148");
+				showAddress("Premier Computer Services, Inc.","800-322-7123","3003 48th Ave	Moline	IL	61265");
+				showAddress("Integrated Computer Resourses","309-691-4840","8400 N. Allen Rd	Peoria	IL	61615");
+				showAddress("Stone Computer, Inc","260-471-9989","55058 Coldwater Rd	Fort Wayne	IN	46825");
+				showAddress("CBE Technologies",	"617-514-1700",	"50 Redfield St.	Boston	MA	02122");
+				showAddress("CTS Services, Inc.", "508-528-7720",	"260 Maple St	Bellingham	MA	02019");
+				showAddress("Entre Computer Center",	"413-736-2112",	"138 Memorial Ave	West Springfield	MA	01089");
+				showAddress("Techfusion",	"617-491-1001",	"20 Concord Lane	Cambridge	MA	02139");
+				showAddress("Whalley Computer Associates, Inc.", "413-569-4200",	"1 Whalley Way	Southwick	MA	01077");
+				showAddress("Advanced Data Research",	"248-299-5300",	"1765 Star Batt Dr	Rochester Hills	MI	48309");
+				showAddress("PCC Valcom",	"248-324-4600",	"33045 Hamilton Ct	Farmington Hills	MI	48334");
+				showAddress("Infologix",	"952-224-4348",	"9401 James Ave S. Ste 150	Bloomington	MN	55431");
+				showAddress("Nexus Information Systems",	"763-548-8300",	"181 Cheshire Lane, Ste 100	Plymouth	MN	55441");
+				showAddress("Howard Computers", "877-856-6440",	"580 Eastview Dr	Laurel	MS	39443");
+				showAddress("Alphanumeric",	"919-376-4500",	"2205 Westinghouse Blvd, Suite 107	Raleigh	NC	27604");
+				showAddress("PC Connection", "800-800-0015",	"8 Optical Ave	Keene	NH	03431");
+				showAddress("CommNet International",	"856-719-1000",	"1 Dutchtown Rd	Voorhees	NJ	08043");
+				showAddress("Dendrite International",	"610-317-4500",	"330 S. Randolphville Rd. Dock B	Piscataway	NJ	08854");
+				showAddress("Panurgy",	"973-625-4056",	"100 Ford Rd	Denville	NJ	07834");
+				showAddress("A+ Technology Solutions, Inc.", 	"631-969-2600", 	"1490 N Clinton Ave	Bay Shore	NY	11706");
+				showAddress("Computer Care Center, Inc",	"718-358-9204",	"6010 Kissena Blvd	Flushing	NY	11355");
+				showAddress("Broadway Computer & Video",	"212-307-6260 x103",	"1623 Broadway	Manhattan	NY	10019");
+				showAddress("4G Data Systems, Inc.",	"212-233-4300",	"85 John St	New York	NY	10038");
+				showAddress("Datavision Computer Video",	"212-689-1111", 	"445 5th Ave	New York	NY	10016");
+				showAddress("Key Systems",	"212-979-1400",	"936 Broadway, Ste 2	New York	NY	10010");
+				showAddress("Key Systems",	"917-343-8173",	"180 Maiden Lane	New York	NY	10038");
+				showAddress("Integron",	"585-426-6200",	"35 Bermar Park	Rochester	NY	14624");
+				showAddress("Upstate Wholesale Supply, Inc",	"585-758-0200",	"430 Linden Ave.	Rochester	NY	14625");
+				showAddress("Computek Warranty Inc.",	"614-861-6151",	"1193 Noe-Bixby Rd.	Columbus	OH	43213");
+				showAddress("Radiant Technology",	"614-791-8433",	"5910 Wilcox Pl, Ste G	Dublin	OH	43017");
+				showAddress("CompUtopia", "401-223-7626", "205 Halleen Rd, #A6	Warwick	RI	02886");
+				showAddress("Direct Integration Specialists (was Procynet, LLC)",	"877-993-4732",	"129 Perimeter Park Dr, Ste B	Knoxville	TN	37922");
+				showAddress("Ryzex Repair",	"800-726-9234",	"830 Fesslers Pkwy	Nashville	TN	37210");
+				showAddress("M & A Technology",	"972-490-5803",	"2045 Chenault	Carrollton	TX	75006");
+				showAddress("Quality High-Tech Services", "972-231-6696",	"11807 Forestgate Dr	Dallas	TX	75243");
+				showAddress("Richards Computers",	"888-606-9900",	"4241 Sigma Rd	Dallas	TX	75244");
+				showAddress("Atiwa Computing",	"800-428-2532",	"2500 CityWest Blvd, Ste 125	Houston	TX	77042");
+				showAddress("OMAC",	"281-596-0818",	"11364 Westheimer Rd	Houston	TX	77077");
+				showAddress("Premio Computer - TX",	"972-633-8276",	"860 F. Avenue	Plano	TX	75074");
+				showAddress("Virginia Tech Services, Inc.",	"540-231-9001",	"401 Industrial Park Drive	Blacksburg	VA	24060");
+				showAddress("Golden Tech Computer",	"703-499-9292",	"14281 Potomac Mills Rd	Woodbridge	VA	22192");
+				showAddress("N.I.S.",	"800-864-4993",	"45640 Willow Pond Plaza	Sterling	VA	20164");
+				showAddress("Prism Pointe Technologies",	"703-796-0009",	"209 Elden Street	Herndon	VA	20170");
+				showAddress("Richards Computers",	"800-969-5355",	"2803 Merrilee Dr	Fairfax	VA	22031");
+				showAddress("Heartland Business Systems",	"920-788-7720",	"1700 Stephen St	Little Chute	WI	54140");
+				map.setCenter(new GLatLng(37.4419, -122.1419), 6);
+				}
+     	}
+			
+			function goClicked(address)
+			{
+			 map.setZoom(10);
+			 showAddress("1","1",address);			 
+			}
+			
+			function createIcon()
+			{
+			 var icon = new GIcon();
+			 icon.image = "http://labs.google.com/ridefinder/images/mm_20_blue.png";
+			 icon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			 icon.iconSize = new GSize(15, 23);
+			 icon.shadowSize = new GSize(35, 33);
+			 icon.iconAnchor = new GPoint(16, 30);
+			 icon.infoWindowAnchor = new GPoint(5, 1);
+			 
+			 return icon;
+			}
+			
+			function setMarker(point, aspName, aspPhone, address)
+			{
+			if (aspName != "1")
+			{
+			 var marker = new GMarker(point);
+			 GEvent.addListener(marker, "click", function(){marker.openInfoWindowHtml(aspName + "<br>" + address + "<br>" + aspPhone)});
+			 map.addOverlay(marker);							
+			}
+			else
+			{
+			 var marker = new GMarker(point, createIcon());
+			 map.addOverlay(marker);
+			 GEvent.addListener(marker, "click", function(){marker.openInfoWindowHtml(address)});
+			 marker.openInfoWindowHtml(address);
+			}
+			}
+			
+			function showAddress(aspName, aspPhone, address) {
+      if (geocoder) {
+        geocoder.getLatLng(
+          address,
+          function(point) {
+            if (!point) {
+              alert(address + " could not be found.");
+            } else {
+              map.setCenter(point);
+							setMarker(point, aspName, aspPhone, address);              
+            }
+          }
+        );
+      }
+    }
+
+
+    //]]>
+    </script>
+  </head>
+  <body onload="load()" onunload="GUnload()">
+	<form action="#" onsubmit="goClicked(this.address.value); return false;">
+      <p>Enter the customer's address or zip code:
+			<input type="text" size="60" name="address"  />
+        <input type="submit" value="Go!" />
+      </p>
+    <div id="map" style="width: 600px; height: 500px"></div>
+	</form>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-07-02 08:59:28
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+08:59:28 172.16.144.41 GET /Main.html 304
+08:59:28 172.16.144.41 GET /SANDS-CSS/style.css 304
+08:59:28 172.16.144.41 GET /SANDS.css 304
+08:59:28 172.16.144.41 GET /images/HomePage/mm_menu.js 304
+08:59:28 172.16.144.41 GET /images/415x64l.gif 304
+08:59:28 172.16.144.41 GET /images/space.gif 304
+08:59:28 172.16.144.41 GET /images/blankdoc.gif 304
+08:59:28 172.16.144.41 GET /images/13x14_Arrow_grey.gif 304
+08:59:28 172.16.144.41 GET /images/Search_small.gif 304
+08:59:28 172.16.144.41 GET /images/bg-rightcol2.jpg 304
+08:59:28 172.16.144.41 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+08:59:44 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+08:59:44 172.16.144.41 GET /Search/GetPartsByDescForModel.aspx 200
+08:59:44 172.16.144.41 GET /images/navArrow.gif 304
+08:59:44 172.16.144.41 GET /images/back_button.gif 304
+09:00:10 172.16.144.41 GET /fpcProducts/CTO/CTO_Parser.asp 200
+09:00:10 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+09:00:16 172.16.144.41 GET /statmentornet/statmentorhit.aspx 500
+09:00:16 172.16.144.41 GET /Search/PartsByConfig.aspx 200

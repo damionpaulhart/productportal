@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2005-12-24 01:47:42
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+01:47:42 172.16.144.40 GET /Main.html 304
+01:47:42 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+01:47:50 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+01:47:50 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+01:48:06 172.16.144.40 GET /Search/PartsByNumberResults.aspx 200
+01:48:06 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+01:48:12 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+01:48:12 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+01:52:38 172.16.144.40 GET /Search/ConfigBySeries.aspx 200
+01:52:38 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+02:59:59 172.16.144.40 GET /Main.html 304
+02:59:59 172.16.144.40 GET /SANDS-CSS/style.css 304
+02:59:59 172.16.144.40 GET /SANDS.css 304
+02:59:59 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+02:59:59 172.16.144.40 GET /SANDS-CSS/list.css 304
+02:59:59 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+02:59:59 172.16.144.40 GET /images/5x20_bg_lightGreyWhite.jpg 304
+02:59:59 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+03:00:02 172.16.144.40 GET /Search/OverviewLifebook.aspx 200
+03:00:02 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+03:00:07 172.16.144.40 GET /Search/ConfigBySeries.aspx 200
+03:00:07 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+03:00:21 172.16.144.40 GET /Search/PartsByConfig.aspx 200
+03:00:21 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+03:00:25 172.16.144.40 GET /Search/parts.aspx 200
+16:39:53 172.16.144.40 GET /primus/SCS9212_display_adapters.png 200
+22:26:26 172.30.3.111 OPTIONS / 200
+22:26:34 172.30.3.111 PROPFIND /primus 207
+22:26:34 172.30.3.111 PROPFIND /primus 207
+22:26:35 172.30.3.111 PROPFIND /primus/SCS9279_SystemShutdown.gif 207
+22:26:35 172.30.3.111 PROPFIND /primus/SCS9279_LSAerror.gif 207
+22:26:36 172.30.3.111 GET /primus/SCS9279_SystemShutdown.gif 200
+22:26:36 172.30.3.111 GET /primus/SCS9279_LSAerror.gif 200

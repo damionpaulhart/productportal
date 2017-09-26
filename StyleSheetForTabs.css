@@ -1,0 +1,22 @@
+﻿ul.tab {margin:0;
+    padding:0;}
+ul.tab li
+{
+    display: block;
+    list-style-type: none;
+    width: 20%;
+    float: left;
+}
+ul.tab li a
+{
+    display: block;
+    background-color: #ccc;
+    padding: 1em;
+    text-decoration: none;
+    border-right: #eee 1px solid;
+    font-weight:900;
+}
+ul.tab li a:hover
+{
+    background-color: #eee;
+}

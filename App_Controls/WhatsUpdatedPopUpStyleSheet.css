@@ -1,0 +1,23 @@
+﻿.WhatsUpdatedPopUp
+{
+    visibility: hidden;
+    font:.8em verdana;
+}
+.WhatsUpdatedPopUp table
+{
+    width: 483px;
+    background-color: #eeeeee;
+}
+.WhatsUpdatedPopUp table th
+{
+    padding:4px;
+}
+
+.WhatsUpdatedPopUp table td
+{
+    background-color: #ffffff;
+    vertical-align:top;
+    padding-left:4px;
+    padding-right:4px;
+}
+

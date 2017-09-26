@@ -1,0 +1,46 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date: 2006-03-19 17:57:59
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+17:57:59 172.16.144.40 GET /Main.html 304
+17:57:59 172.16.144.40 GET /Main.html 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/style.css 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/style.css 304
+17:57:59 172.16.144.40 GET /SANDS.css 304
+17:57:59 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+17:57:59 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/list.css 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/list.css 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+17:57:59 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+17:57:59 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+17:57:59 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+19:07:01 172.16.144.40 GET /Main.html 304
+19:07:01 172.16.144.40 GET /SANDS-CSS/style.css 304
+19:07:01 172.16.144.40 GET /SANDS.css 304
+19:07:01 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+19:07:01 172.16.144.40 GET /SANDS-CSS/list.css 304
+19:07:01 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+19:07:01 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+19:48:15 172.16.144.40 GET /Main.html 304
+19:48:15 172.16.144.40 GET /SANDS-CSS/style.css 304
+19:48:15 172.16.144.40 GET /SANDS.css 304
+19:48:15 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+19:48:15 172.16.144.40 GET /SANDS-CSS/list.css 304
+19:48:15 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+19:48:15 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:14:57 172.16.144.40 GET /Main.html 304
+22:14:57 172.16.144.40 GET /SANDS-CSS/style.css 304
+22:14:57 172.16.144.40 GET /SANDS.css 304
+22:14:57 172.16.144.40 GET /images/HomePage/mm_menu.js 304
+22:14:57 172.16.144.40 GET /SANDS-CSS/list.css 304
+22:14:57 172.16.144.40 GET /SANDS-CSS/menu-right.css 304
+22:14:57 172.16.144.40 GET /images/HomePage/images/Products_r1_c1.jpg 304
+22:14:57 172.16.144.40 GET /images/HomePage/images/Products_r1_c4.jpg 304
+22:14:57 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:14:57 172.16.144.40 GET /images/HomePage/images/Products_r1_c1_f2.jpg 304
+22:14:57 172.16.144.40 GET /images/HomePage/images/Products_r1_c4_f2.jpg 304
+22:14:59 172.16.144.40 GET /fpcProducts/CTO/CTO_Parser.asp 200
+22:14:59 172.16.144.40 GET /statmentornet/statmentorhit.aspx 500
+22:15:01 172.16.144.40 GET /SANDS-statistics/netcounter/hscounter.aspx 200
+22:15:01 172.16.144.40 GET /Search/prod_ConfigDetail.aspx 200
